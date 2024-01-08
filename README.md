@@ -1,6 +1,6 @@
 # Sparse-Autoencoder
-Implementing and optimizing a sparse autoencoder.
+Implementing and optimizing a sparse autoencoder to reduce CICIOT dataset and capture key features.
 
-Here's an article discussing the implimentation and optimizing process of the autoencoder: <br />
+Here's an article discussing the implimentation and optimization process of the autoencoder: <br />
 
 https://open.substack.com/pub/brianljx/p/dumbed-down-implementing-and-optimizing?r=2u5jne&utm_campaign=post&utm_medium=web
