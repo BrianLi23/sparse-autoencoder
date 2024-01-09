@@ -1,4 +1,4 @@
-# Sparse-Autoencoder
+# sparse-autoencoder
 Implementing and optimizing a sparse autoencoder to reduce CICIOT dataset and capture key features.
 
 Here's my article discussing the implimentation and optimization process of this autoencoder: <br />
